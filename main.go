@@ -1,7 +1,6 @@
 package html
 
 import (
-	"fmt"
 	"io"
 	"net/http"
 	"regexp"
